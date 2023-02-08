@@ -1,0 +1,4 @@
+/build/AutoMeeting/
+/dist/AutoMeeting/
+/.idea/
+/source/utils/util_gif_player.py

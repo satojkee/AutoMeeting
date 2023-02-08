@@ -1,0 +1,5 @@
+pystray
+sv_ttk
+notify-py
+pillow
+pyautogui

@@ -1,0 +1,30 @@
+{
+  "monday": {
+    "09:00": "https://ZOOM_MEETING_URL",
+    "15:40": "https://ZOOM_MEETING_URL"
+  },
+  "tuesday": {
+    "09:00": "https://ZOOM_MEETING_URL",
+    "15:40": "https://ZOOM_MEETING_URL"
+  },
+  "wednesday": {
+    "09:00": "https://ZOOM_MEETING_URL",
+    "15:40": "https://ZOOM_MEETING_URL"
+  },
+  "thursday": {
+    "09:00": "https://ZOOM_MEETING_URL",
+    "15:40": "https://ZOOM_MEETING_URL"
+  },
+  "friday": {
+    "09:00": "https://ZOOM_MEETING_URL",
+    "15:40": "https://ZOOM_MEETING_URL"
+  },
+  "saturday": {
+    "09:00": null,
+    "15:40": null
+  },
+  "sunday": {
+    "09:00": null,
+    "15:40": null
+  }
+}
